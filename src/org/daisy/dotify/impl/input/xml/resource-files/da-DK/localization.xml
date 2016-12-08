@@ -13,18 +13,18 @@
 		
 	<entry key="l10nrearjacketcopy">Bagsidetekst</entry>
 	<entry key="l10nimagedescription">Billedbeskrivelse</entry>
-	<entry key="l10ncolophon">Tryckuppgifter</entry>
+	<entry key="l10ncolophon">Kolofon</entry>
 	<entry key="l10ncaption">Billedtekst</entry>
-	<entry key="l10ntable">Tabell</entry>
-	<entry key="l10ntablepart">Tabelldel</entry>
+	<entry key="l10ntable">Tabel</entry>
+	<entry key="l10ntablepart">Tabeldel</entry>
 	<entry key="l10nTocHeadline">Indhold</entry>
 	<entry key="l10nTocDescription"></entry>
 
-	<entry key="l10nTocVolumeStart">Volym {0}</entry>
-	<entry key="l10nTocVolumeHeading">Indhold volym {0}</entry>
-	<entry key="l10nTocVolumeXofY">Volym {0} av {1}</entry>
-	<entry key="l10nTocOneVolume">En volym</entry>
-	<entry key="l10nEndnotesHeading">Fodnoter til dette volymen</entry>
+	<entry key="l10nTocVolumeStart">Bind {0}</entry>
+	<entry key="l10nTocVolumeHeading">Indhold i bind {0}</entry>
+	<entry key="l10nTocVolumeXofY">Bind {0} af {1}</entry>
+	<entry key="l10nTocOneVolume">Et bind</entry>
+	<entry key="l10nEndnotesHeading">Fodnoter til dette bind</entry>
 	<entry key="l10nEndnotesPageStart">Side {0}</entry>
 	<entry key="l10nEndnotesPageHeader">Slutnoter</entry>
 
